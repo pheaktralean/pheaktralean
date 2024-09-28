@@ -6,7 +6,7 @@
 🐟 Exploring areas like Machine Learning, Software Engineering, and Web Development<br>
 🦕 Based in Montreal, Quebec, Canada
 
-### Courses Completed
+### 👩🏻‍💻 Courses Completed
 I have taken the following courses:
 
 - **COMP 248**: Object Oriented Programming 1
