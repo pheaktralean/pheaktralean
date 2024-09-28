@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--
+<!-- ## Hi there 👋
 **pheaktralean/pheaktralean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Welcome to my GitHub! I am Pheaktra!
+
+🪼 Pursuing a Bachelor of Computer Science at Concordia University</br>
+🦋 Seeking a Winter 2025 Internship</br>
+🐳 Currently taking courses in Machine Learning, Introduction to Software Engineering, Operating Systems, and the Social and Ethical Dimensions of Information and Communication Technology</br>
+🦕 Based in Montreal, Quebec, Canada</br>
+
+
