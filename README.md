@@ -3,8 +3,23 @@
 🪼 Pursuing a Bachelor of Computer Science at Concordia University<br>
 🦋 Seeking a Winter 2025 Internship<br>
 🐳 Currently taking courses in Machine Learning, Introduction to Software Engineering, Operating Systems, and the Social and Ethical Dimensions of Information and Communication Technology<br>
+🐟 Exploring areas like Machine Learning, Software Engineering, and Web Development<br>
 🦕 Based in Montreal, Quebec, Canada
 
+### Courses Completed
+I have taken the following courses:
+
+- **COMP 248**: Object Oriented Programming 1
+- **COMP 249**: Object Oriented Programming 2
+- **COMP 232**: Mathematics for Computer Science
+- **COMP 233**: Probability and Statistics
+- **COMP 228**: System Hardware
+- **COMP 348**: Principles of Programming Languages
+- **COMP 352**: Data Structures and Algorithms
+- **SOEN 287**: Web Programming
+- **ENGR 213**: Applied Ordinary Differential Equations
+- **MAST 218**: Multivariable Calculus 1
+- **MAST 219**: Multivariable Calculus 2
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SopheaktraLean) 
@@ -24,5 +39,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pheaktralean&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
