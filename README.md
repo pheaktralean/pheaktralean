@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 🐳 Currently taking courses in Machine Learning, Introduction to Software Engineering, Operating Systems, and the Social and Ethical Dimensions of Information and Communication Technology</br>
 🦕 Based in Montreal, Quebec, Canada</br>
 
+[![Pheaktra's GitHub stats](https://github-readme-stats.vercel.app/api?username=pheaktralean)](https://github.com/anuraghazra/github-readme-stats)]
+
 
