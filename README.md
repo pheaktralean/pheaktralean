@@ -4,7 +4,7 @@
 🦋 Seeking a Winter 2025 Internship<br>
 🐳 Currently taking courses in Machine Learning, Introduction to Software Engineering, Operating Systems, and the Social and Ethical Dimensions of Information and Communication Technology<br>
 🐟 Exploring areas like Machine Learning, Software Engineering, and Web Development<br>
-🐦 Visitng aqauriums, trying new cuisines, swimming, and cooking are my hobbies<br>
+🐦 Visiting aqauriums, trying new cuisines, swimming, and cooking are my hobbies<br>
 🦕 Based in Montreal, Quebec, Canada
 
 ### 👩🏻‍💻 Courses Completed
