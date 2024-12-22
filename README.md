@@ -10,13 +10,16 @@
 ### 👩🏻‍💻 Courses Completed
 I have taken the following courses:
 
-- **COMP 248**: Object Oriented Programming 1
-- **COMP 249**: Object Oriented Programming 2
+- **COMP 228**: System Hardware
 - **COMP 232**: Mathematics for Computer Science
 - **COMP 233**: Probability and Statistics
-- **COMP 228**: System Hardware
+- **COMP 248**: Object Oriented Programming I
+- **COMP 249**: Object Oriented Programming II
+- **COMP 346**: Operating System
 - **COMP 348**: Principles of Programming Languages
 - **COMP 352**: Data Structures and Algorithms
+- **COMP 354**: Introduction to Software Engineering
+- **COMP 432**: Machine Learning
 - **SOEN 287**: Web Programming
 - **ENGR 213**: Applied Ordinary Differential Equations
 - **MAST 218**: Multivariable Calculus 1
