@@ -1,8 +1,6 @@
 
 ### 💫 About Me:
 🪼 Pursuing a Bachelor of Computer Science at Concordia University<br>
-🦋 Seeking a Winter 2025 Internship<br>
-🐳 Currently taking courses in Machine Learning, Introduction to Software Engineering, Operating Systems, and the Social and Ethical Dimensions of Information and Communication Technology<br>
 🐟 Exploring areas like Machine Learning, Software Engineering, and Web Development<br>
 🐦 Visiting aqauriums, trying new cuisines, swimming, and cooking are my hobbies<br>
 🦕 Based in Montreal, Quebec, Canada
@@ -37,12 +35,7 @@ I have taken the following courses:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pheaktralean&theme=blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pheaktralean&theme=blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pheaktralean&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pheaktralean&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=pheaktralean&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
